@@ -1,6 +1,6 @@
 ## git-init 
 
-A common boilerplate, once a repository has been created on GitHub:
+A common boilerplate, once a repository has been created on GitHub: (Just change anywhere it says "title")
 
 ```
   echo "# title" >> README.md
