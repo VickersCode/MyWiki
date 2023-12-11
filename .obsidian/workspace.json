@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/started.md",
+                "file": "git/starting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/started.md",
+                "file": "git/starting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/started.md",
+                "file": "git/starting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/started.md"
+                "file": "git/starting.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbac6517da4315e3",
+  "active": "b7c239d707b8ef2f",
   "lastOpenFiles": [
     "README.md",
-    "git/started.md",
+    "git/starting.md",
     "git"
   ]
 }
