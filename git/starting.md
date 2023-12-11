@@ -1,4 +1,4 @@
-# GIT init 
+## git-init 
 
 A common boilerplate, once a repository has been created on GitHub:
 

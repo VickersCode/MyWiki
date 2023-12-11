@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/starting.md",
+                "file": "git/cloneFetchPull.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/starting.md",
+                "file": "git/cloneFetchPull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/starting.md",
+                "file": "git/cloneFetchPull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/starting.md"
+                "file": "git/cloneFetchPull.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7c239d707b8ef2f",
+  "active": "bbac6517da4315e3",
   "lastOpenFiles": [
-    "README.md",
     "git/starting.md",
+    "git/cloneFetchPull.md",
+    "README.md",
     "git"
   ]
 }
