@@ -1,4 +1,6 @@
-## git-init 
+[[README |Table of Contents]]
+***
+# git init
 
 A common boilerplate, once a repository has been created on GitHub: (Just change anywhere it says "title")
 
