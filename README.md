@@ -1,3 +1,5 @@
+[[README |Table of Contents]] | [[Markdown Cheatsheet]]
+___
 # VickersCode Personal Coding Wiki
 (because I want a concise place to search)
 
@@ -5,7 +7,7 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 ## Table of Contents
 1. git/version control
   - [[git-started]] Starting a new repository
-  - [[staging-pushing]]
+  - [[add-commit-push]]
   - [[clone-fetch-pull]]
 
 

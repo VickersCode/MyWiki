@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/clone-fetch-pull.md",
+                "file": "git/add-commit-push.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "794071882ed8fa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/add-commit-push.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/clone-fetch-pull.md",
+                "file": "git/add-commit-push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/clone-fetch-pull.md",
+                "file": "git/add-commit-push.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/clone-fetch-pull.md"
+                "file": "git/add-commit-push.md"
               }
             }
           }
@@ -155,14 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbac6517da4315e3",
+  "active": "b7c239d707b8ef2f",
   "lastOpenFiles": [
+    "images/git-add-commit.png",
+    "images/git-add-commit.png.crdownload",
+    "images",
     "README.md",
-    "git/git-started.md",
     "git/clone-fetch-pull.md",
+    "git/git-started.md",
+    "git/add-commit-push.md",
+    "Markdown Cheatsheet.md",
     "Untitled.canvas",
     "git.md",
-    "git/staging-pushing.md",
     "git"
   ]
 }

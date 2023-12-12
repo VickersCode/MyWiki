@@ -1,3 +1,4 @@
+[[README |Table of Contents]] | [[Markdown Cheatsheet]]
 ___
 ## `git clone`
 
@@ -15,7 +16,7 @@ _git clone_ [--template=<template-directory>]
 	  [<directory>]
 ```
 
-git-clone is used to clone a repository into a newly created directory. It creates remote tracking branches, visible using `git branch --remotes`. After this, only `git fetch` and `git pull` are necessary.
+`git-clone` is used to clone a repository into a newly created directory. It creates remote tracking branches, visible using `git branch --remotes`. After this, only `git fetch` and `git pull` are necessary.
 
 Here is what it looks like to clone the repository that this wiki will exist in:
 
