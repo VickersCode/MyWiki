@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "git/clone-fetch-pull.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "git/clone-fetch-pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "git/clone-fetch-pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "git/clone-fetch-pull.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "bbac6517da4315e3",
   "lastOpenFiles": [
-    "git/git-started.md",
-    "git/cloneFetchPull.md",
     "README.md",
+    "git/git-started.md",
+    "git/clone-fetch-pull.md",
     "Untitled.canvas",
     "git.md",
     "git/staging-pushing.md",
