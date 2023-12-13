@@ -17,6 +17,7 @@ ___
 ## `git push`
 
 This adds the changes from the git repository to the repository on GitHub
+Changes are "final", although there are previous snapshots in case things break
 ___
 
 ![[git-add-commit.png]]
