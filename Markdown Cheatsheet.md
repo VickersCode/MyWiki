@@ -4,6 +4,7 @@ ___
 [Headers](#Headers)
 [Bold/Italic](#Bold/Italic)
 [Lists](#Lists)
+[Links](#Links)
 ___
 ## Headers
 
@@ -18,6 +19,12 @@ ___
 
 #### Header 4
 `#### Header 4`
+
+##### Header 5
+`##### Header 5`
+
+###### Header 6
+`###### Header 6`
 
 Paragraphs can just be typed normally.
 ___
@@ -52,3 +59,19 @@ ___
 - Second
 - Third
 ```
+___
+## Links
+
+##### External
+[VickersCode GitHub](https://github.com/VickersCode)
+`[VickersCode GitHub](https://github.com/VickersCode)`
+
+##### Internal to another file
+[[README |Table of Contents]]
+`[[README |Table of Contents]]` - notice the double bracket. Field after pipe represents how the link will show on the page.
+
+##### Internal to a header
+[Bold/Italic](#Bold/Italic)
+`[Bold/Italic](#Bold/Italic)` - field after hashtag represents name of link on page.
+
+
