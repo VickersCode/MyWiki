@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/fixed-errors-troubleshoot.md",
+                "file": "Markdown Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/fixed-errors-troubleshoot.md",
+                "file": "Markdown Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/fixed-errors-troubleshoot.md",
+                "file": "Markdown Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/fixed-errors-troubleshoot.md"
+                "file": "Markdown Cheatsheet.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "97436052a33ada1b",
   "lastOpenFiles": [
-    "images/overwrite-error-solution.png",
-    "images/overwrite-error.png",
-    "git/add-commit-push.md",
-    "git/clone-fetch-pull.md",
-    "git/git-started.md",
-    "git/fixed-errors-troubleshoot.md",
     "README.md",
     "Markdown Cheatsheet.md",
+    "git/fixed-errors-troubleshoot.md",
+    "images/overwrite-error.png",
     "images/git-add-commit.png",
+    "git/git-started.md",
+    "images/overwrite-error-solution.png",
+    "git/add-commit-push.md",
+    "git/clone-fetch-pull.md",
     "images",
     "git/staging-pushing.md",
     "git/cloneFetchPull.md",
