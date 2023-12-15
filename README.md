@@ -9,6 +9,6 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
   - [git-started](/git/git-started) Starting a new repository
   - [add-commit-push](/git/add-commit-push)
   - [clone-fetch-pull](/git/clone-fetch-pull)
-  - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot)
+  - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot.md)
 
 
