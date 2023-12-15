@@ -4,7 +4,7 @@ ___
 [Headers](#Headers)\
 [Bold-Italic](#Bold-Italic)\
 [Lists](#Lists)\
-[Links](#Links)\
+[Links](#Links)
 ___
 ## Headers
 
