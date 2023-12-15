@@ -67,7 +67,7 @@ ___
 `[VickersCode GitHub](https://github.com/VickersCode)`
 
 ##### Internal to another file
-[Table of Contents](/README)
+[Table of Contents](/README.md)
 `[Table of Contents]` - notice the double bracket. Field after pipe represents how the link will show on the page.
 
 ##### Internal to a header
