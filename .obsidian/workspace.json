@@ -11,28 +11,36 @@
             "id": "69ac984a140f2fc1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbac6517da4315e3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/add-commit-push.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97436052a33ada1b",
+            "id": "794071882ed8fa6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/fixed-errors-troubleshoot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/fixed-errors-troubleshoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/fixed-errors-troubleshoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheatsheet.md"
+                "file": "git/fixed-errors-troubleshoot.md"
               }
             }
           }
@@ -159,21 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97436052a33ada1b",
+  "active": "794071882ed8fa6f",
   "lastOpenFiles": [
-    "README.md",
     "Markdown Cheatsheet.md",
     "git/fixed-errors-troubleshoot.md",
-    "images/overwrite-error.png",
-    "images/git-add-commit.png",
-    "git/git-started.md",
-    "images/overwrite-error-solution.png",
+    "Markdown&.md",
+    "Markdown_Cheatsheet.md",
+    "README.md",
     "git/add-commit-push.md",
+    "git/git-started.md",
     "git/clone-fetch-pull.md",
-    "images",
-    "git/staging-pushing.md",
-    "git/cloneFetchPull.md",
+    "Markdown.md",
+    "images/overwrite-error.png",
+    "images/overwrite-error-solution.png",
     "Untitled.canvas",
+    "2023-12-13.md",
+    "images/git-add-commit.png",
+    "images/git-add-commit.png.crdownload",
+    "images",
     "git.md",
     "git"
   ]
