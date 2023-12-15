@@ -11,26 +11,6 @@
             "id": "69ac984a140f2fc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbac6517da4315e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/add-commit-push.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "794071882ed8fa6f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Markdown Cheatsheet.md",
@@ -38,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97436052a33ada1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/fixed-errors-troubleshoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/fixed-errors-troubleshoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "git/fixed-errors-troubleshoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheatsheet.md"
+                "file": "git/fixed-errors-troubleshoot.md"
               }
             }
           }
@@ -167,18 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794071882ed8fa6f",
+  "active": "97436052a33ada1b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2023-12-13.md",
-    "Markdown Cheatsheet.md",
-    "images/git-add-commit.png",
+    "images/overwrite-error-solution.png",
+    "images/overwrite-error.png",
+    "git/add-commit-push.md",
     "git/clone-fetch-pull.md",
     "git/git-started.md",
-    "git/add-commit-push.md",
-    "images/git-add-commit.png.crdownload",
-    "images",
+    "git/fixed-errors-troubleshoot.md",
     "README.md",
+    "Markdown Cheatsheet.md",
+    "images/git-add-commit.png",
+    "images",
+    "git/staging-pushing.md",
+    "git/cloneFetchPull.md",
+    "Untitled.canvas",
     "git.md",
     "git"
   ]
