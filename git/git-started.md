@@ -1,4 +1,4 @@
-[[README |Table of Contents]] | [[Markdown Cheatsheet]]
+[Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 ***
 # git init
 

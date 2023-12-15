@@ -1,4 +1,4 @@
-[[README |Table of Contents]] | [[Markdown Cheatsheet]]
+[Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 ___
 ## `git add` 
 
@@ -20,4 +20,4 @@ This adds the changes from the git repository to the repository on GitHub
 Changes are "final", although there are previous snapshots in case things break
 ___
 
-![[git-add-commit.png]]
+![git add commit](../images/git-add-commit.png)

@@ -1,10 +1,10 @@
-[[README |Table of Contents]] | [[Markdown Cheatsheet]]
+[Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 ___
 ## Quick Links
-[Headers](#Headers)
-[Bold/Italic](#Bold/Italic)
-[Lists](#Lists)
-[Links](#Links)
+[Headers](#Headers)\
+[Bold/Italic](#Bold/Italic)\
+[Lists](#Lists)\
+[Links](#Links)\
 ___
 ## Headers
 
@@ -68,7 +68,7 @@ ___
 
 ##### Internal to another file
 [Table of Contents](/README.md)
-`[Table of Contents]` - notice the double bracket. Field after pipe represents how the link will show on the page.
+`[Table of Contents](/README.md`
 
 ##### Internal to a header
 [Bold/Italic](#Bold/Italic)
