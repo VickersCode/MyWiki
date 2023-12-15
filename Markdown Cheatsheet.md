@@ -2,7 +2,7 @@
 ___
 ## Quick Links
 [Headers](#Headers)\
-[Bold/Italic](#Bold/Italic)\
+[Bold-Italic](#Bold-Italic)\
 [Lists](#Lists)\
 [Links](#Links)\
 ___
@@ -28,7 +28,7 @@ ___
 
 Paragraphs can just be typed normally.
 ___
-## Bold/Italic
+## Bold-Italic
 
 **Bold Text**
 `**Bold Text**` or `__Bold Text__`
