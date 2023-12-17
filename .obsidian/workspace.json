@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/help.md",
+                "file": "git/git-started.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/help.md",
+                "file": "git/git-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/help.md",
+                "file": "git/git-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/help.md"
+                "file": "git/git-started.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7c239d707b8ef2f",
+  "active": "790c1e6111698e5c",
   "lastOpenFiles": [
-    "git/clone-fetch-pull.md",
     "git/help.md",
+    "git/clone-fetch-pull.md",
     "git/fixed-errors-troubleshoot.md",
     "git/git-started.md",
     "git/add-commit-push.md",

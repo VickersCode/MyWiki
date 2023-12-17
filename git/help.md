@@ -10,5 +10,6 @@ $ man git-<verb>
 
 There is also a live Libera Chat IRC server where people are usually available to help.
 
-> [Git Chat](https://libera.chat/) Search for the #git #github or #gitlab channels 
+> [Git Chat](https://libera.chat/) 
+> Search for the #git #github or #gitlab channels 
 
