@@ -6,7 +6,8 @@ ___
 [Lists](#Lists)\
 [Links](#Links)\
 [Code](#Code)\
-[Tables](#Tables)
+[Tables](#Tables)\
+[Other Stuff](#Other Stuff)
 ___
 ## Headers
 
@@ -80,7 +81,7 @@ ___
 
 #### Single Line
 To use a `single line code block`,
-	put backticks (``) around the code.
+	put backticks (\`\`) around the code.
 
 #### Multi Line
 ```python
@@ -116,3 +117,38 @@ ___
 | Paragraph | Text |
 ```
 ___
+## Other Stuff
+
+#### Footnote
+Want to see a footnote? [^1]
+
+[^1]: Here it is
+
+```markdown
+Want to see a footnote? [^1]
+
+[^1]: Here it is
+```
+
+
+#### ~~Strikethrough~~
+`~~strikethrough~~`
+
+
+#### Checklist
+- [x] Done
+- [ ] Not Done
+- [ ] Also 
+
+```markdown
+- [x] Done
+- [ ] Not Done
+- [ ] Also 
+```
+
+
+#### ==Highlight==
+
+`==highlight==`
+
+
