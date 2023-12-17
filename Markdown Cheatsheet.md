@@ -93,12 +93,12 @@ add(x,y)
 ```
 
 Markdown:
-	\`\`\`python
-	x = 27
-	y = 3
-	def add(x,y):
-		return x + y
-     add (x,y)
+	\`\`\`python\
+	x = 27\
+	y = 3\
+	def add(x,y):\
+		return x + y\
+     add (x,y)\
      \`\`\`
 ___
 
