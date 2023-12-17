@@ -4,7 +4,9 @@ ___
 [Headers](#Headers)\
 [Bold-Italic](#Bold-Italic)\
 [Lists](#Lists)\
-[Links](#Links)
+[Links](#Links)\
+[Code](#Code)\
+[Tables](#Tables)
 ___
 ## Headers
 
@@ -73,5 +75,43 @@ ___
 ##### Internal to a header
 [Bold/Italic](#Bold/Italic)
 `[Bold/Italic](#Bold/Italic)` - field after hashtag represents name of link on page.
+___
+## Code
 
+#### Single Line
+To use a `single line code block`,
+	put backticks (``) around the code.
 
+#### Multi Line
+```python
+x = 27
+y = 3
+def add(x,y):
+	return x + y
+
+add(x,y)
+```
+
+Markdown:
+	\`\`\`python
+	x = 27
+	y = 3
+	def add(x,y):
+		return x + y
+     add (x,y)
+     \`\`\`
+___
+
+## Tables
+
+| Syntax | Description |
+|-----------|-----------|
+| Header | Title |
+| Paragraph | Text |
+
+```
+| Syntax | Description |
+|-----------|-----------|
+| Header | Title |
+| Paragraph | Text |
+```
