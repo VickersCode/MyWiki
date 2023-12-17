@@ -7,7 +7,7 @@ ___
 [Links](#Links)\
 [Code](#Code)\
 [Tables](#Tables)\
-[Other Stuff](#Other Stuff)
+[Other Stuff](#Other-Stuff)
 ___
 ## Headers
 
@@ -117,7 +117,7 @@ ___
 | Paragraph | Text |
 ```
 ___
-## Other Stuff
+## Other-Stuff
 
 #### Footnote
 Want to see a footnote? [^1]
