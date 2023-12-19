@@ -151,4 +151,7 @@ Want to see a footnote? [^1]
 
 `==highlight==`
 
+> "This is a block quote"
+
+`> "This is a block quote"`
 

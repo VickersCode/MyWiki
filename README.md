@@ -7,7 +7,7 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 ## Table of Contents
 1. git/version control
   - [git-started](./git/git-started.md) Starting a new repository
-  - [add-commit-push](./git/add-commit-push.md)
+  - [tracking-files](tracking-files.md)
   - [clone-fetch-pull](./git/clone-fetch-pull.md)
   - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot.md)
 
