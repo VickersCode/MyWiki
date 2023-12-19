@@ -9,7 +9,6 @@ ___
 So any changes made will reside here until ready to commit.
 
 Once a file has been tracked, can skip the `git add` phase by using
-
 `git commit -a -m "message"`
 
 ___

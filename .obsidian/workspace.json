@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/ignore.md",
+                "file": "git/tracking-files.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/ignore.md",
+                "file": "git/tracking-files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/ignore.md",
+                "file": "git/tracking-files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/ignore.md"
+                "file": "git/tracking-files.md"
               }
             }
           }
@@ -205,15 +205,15 @@
   },
   "active": "b5165c4517d6da19",
   "lastOpenFiles": [
-    "git/move-remove.md",
+    "README.md",
     "Markdown Cheatsheet.md",
     "git/ignore.md",
+    "git/move-remove.md",
     "git/fixed-errors-troubleshoot.md",
     "git/help.md",
     "git/tracking-files.md",
     "git/git-started.md",
     "git/clone-fetch-pull.md",
-    "README.md",
     "Markdown&.md",
     "Markdown_Cheatsheet.md",
     "Markdown.md",
