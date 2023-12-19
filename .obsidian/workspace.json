@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/move-remove.md",
+                "file": "git/ignore.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/move-remove.md",
+                "file": "git/ignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/move-remove.md",
+                "file": "git/ignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/move-remove.md"
+                "file": "git/ignore.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "b5165c4517d6da19",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
     "git/move-remove.md",
+    "Markdown Cheatsheet.md",
     "git/ignore.md",
     "git/fixed-errors-troubleshoot.md",
     "git/help.md",

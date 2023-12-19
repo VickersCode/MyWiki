@@ -3,7 +3,7 @@ ___
 
 a `.gitignore` file is used to list files that we want git to ignore, like temp files created by Emacs, for example.
 
-the following code creates a `.gitignore` file, lists all files that end in an 'o' or an 'a', and all files that end in a '~' (like temp files created by Emacs)
+the following code reads a `.gitignore` file, lists all files that end in an 'o' or an 'a', and all files that end in a '~' (like temp files created by Emacs)
 
 
 ```console
