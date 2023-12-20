@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/tracking-files.md",
+                "file": "git/move-remove.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "241d0404102d220b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/viewing-commit-history.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/tracking-files.md",
+                "file": "git/viewing-commit-history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/tracking-files.md",
+                "file": "git/viewing-commit-history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/tracking-files.md"
+                "file": "git/viewing-commit-history.md"
               }
             }
           }
@@ -203,17 +215,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5165c4517d6da19",
+  "active": "241d0404102d220b",
   "lastOpenFiles": [
+    "git/fixed-errors-troubleshoot.md",
+    "git/viewing-commit-history.md",
+    "git/git-started.md",
+    "images/git-log.png",
+    "git/clone-fetch-pull.md",
+    "git/move-remove.md",
+    "git/tracking-files.md",
     "README.md",
     "Markdown Cheatsheet.md",
     "git/ignore.md",
-    "git/move-remove.md",
-    "git/fixed-errors-troubleshoot.md",
     "git/help.md",
-    "git/tracking-files.md",
-    "git/git-started.md",
-    "git/clone-fetch-pull.md",
     "Markdown&.md",
     "Markdown_Cheatsheet.md",
     "Markdown.md",
