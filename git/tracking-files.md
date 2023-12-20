@@ -21,7 +21,7 @@ Takes everything from staging area and makes a permanent snapshot of the current
 Every time you run `git commit` a snapshot is saved that the project can be reverted to later
 
 ##### overwrite error
-There's a possibility that the local repository has changes that have not been committed, and the project has moved on, causing an error when trying to commit. One solution can be found [here](./fixed-errors-troubleshoot#Cannot%20because%20of%20override%20error)
+There's a possibility that the local repository has changes that have not been committed, and the project has moved on, causing an error when trying to commit. One solution can be found [here](./fixed-errors-troubleshoot.md#Cannot%20because%20of%20override%20error)
 ___
 ## `git push`
 
