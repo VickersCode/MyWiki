@@ -18,7 +18,7 @@ A common boilerplate, once a repository has been created on GitHub: (Just change
 
 ___
 
-# `git status`
+# git status
 
 Files are untracked until `git add` stages them for tracking.
 This is useful so we don't accidentally add binary files to the repository, for instance, by running `git add .` . We can check the files staged for commit before we push changes.

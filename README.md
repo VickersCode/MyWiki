@@ -13,6 +13,8 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
   - [move-remove](./git/move-remove)
   - [help](./git/help.md)
   - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot.md)
+  - [log history](./git/log-history.md)
+  - [undo](./git/undo.md)
 
 
 
