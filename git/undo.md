@@ -80,6 +80,10 @@ Changes to be committed:
 It says to use `git restore --staged <file>`
 Once we run this, the file is still modified, but unstaged.
 
-==This is different than just running `git restore <file>`
-Which removes any local changes to that file.==
+> [!WARNING]
+> `git restore --staged <file>` is different than just running `git restore <file>`
+> Which removes any local changes to that file.
+
+
+
 
