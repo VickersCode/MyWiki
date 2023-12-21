@@ -81,8 +81,7 @@ It says to use `git restore --staged <file>`
 Once we run this, the file is still modified, but unstaged.
 
 > [!WARNING]
-> `git restore --staged <file>` is different than just running `git restore <file>`
-> Which removes any local changes to that file.
+> `git restore --staged <file>` is different than just running `git restore <file>` Which removes any local changes to that file.
 
 
 
