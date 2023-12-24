@@ -9,12 +9,13 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
   - [git-started](./git/git-started.md) 
   - [tracking-files](./git/tracking-files.md)
   - [clone-fetch-pull](./git/clone-fetch-pull.md)
-  - [ignore](./git/ignore)
-  - [move-remove](./git/move-remove)
+  - [ignore](./git/ignore.md)
+  - [move-remove](./git/move-remove.md)
   - [help](./git/help.md)
   - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot.md)
   - [log history](./git/log-history.md)
   - [undo](./git/undo.md)
+  - [remotes](./git/remotes.md)
 
 
 

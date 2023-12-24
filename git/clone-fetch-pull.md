@@ -26,7 +26,7 @@ ___
 
 ## `git fetch`
 
-`git fetch` gathers the commits that do not exist and stores them in the local repository **without** merging them to the current branch. 
+`git fetch <remote>` gathers the commits that do not exist and stores them in the local repository **without** merging them to the current branch. 
 
 Useful for keeping code up to date, but working on something that may break.
 
