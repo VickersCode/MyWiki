@@ -1,4 +1,6 @@
 [Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
+credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
 ___
 Remote repositories exist on the internet or a network somewhere, hence the name "remote". This allows us to work on projects as a team, or at multiple workstations. 
 

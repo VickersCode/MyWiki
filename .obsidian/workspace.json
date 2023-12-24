@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/remotes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/remotes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/remotes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/remotes.md"
+                "file": "README.md"
               }
             }
           }
@@ -229,21 +229,21 @@
   },
   "active": "e57669b732516c92",
   "lastOpenFiles": [
+    "git/undo.md",
     "git/tracking-files.md",
-    "git/clone-fetch-pull.md",
     "git/remotes.md",
     "git/move-remove.md",
-    "README.md",
-    "Markdown Cheatsheet.md",
     "git/log-history.md",
-    "git/undo.md",
-    "images/git-log.PNG",
-    "git/viewing-commit-history.md",
-    "git/fixed-errors-troubleshoot.md",
-    "git/git-started.md",
-    "images/git-log.png",
     "git/ignore.md",
     "git/help.md",
+    "git/git-started.md",
+    "git/fixed-errors-troubleshoot.md",
+    "git/clone-fetch-pull.md",
+    "README.md",
+    "Markdown Cheatsheet.md",
+    "images/git-log.PNG",
+    "git/viewing-commit-history.md",
+    "images/git-log.png",
     "Markdown&.md",
     "Markdown_Cheatsheet.md",
     "Markdown.md",

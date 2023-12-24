@@ -1,4 +1,6 @@
 [Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
+credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
 ___
 
 Always keep in mind, it is not always possible to undo an undo. So going through these steps should be taken carefully.
