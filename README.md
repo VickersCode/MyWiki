@@ -16,6 +16,7 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
   - [log history](./git/log-history.md)
   - [undo](./git/undo.md)
   - [remotes](./git/remotes.md)
+  - [tagging-aliases](./git/tagging-aliases.md)
 
 
 
