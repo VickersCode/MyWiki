@@ -137,6 +137,19 @@ ____
 
 ## Aliases
 
+Aliases make it so we don't need to type the full command to get something done. For example, if we want to type `git ci` instead of `git commit`, we need to run the following
+
+```console
+$ git config --global alias.ci commit`
+```
+
+A common alias allows us to easily view the latest commit
+
+```console
+$git config --global alias.last `log -1 HEAD`
+```
+
+
 
 
 
