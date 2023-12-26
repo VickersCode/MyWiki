@@ -37,7 +37,7 @@ There are two types of tags:
 
 #### Lightweight Tags
 
-Tags without much information (not recommended by Git)
+Tags without much information (not recommended by Git)\
 To create, `git tag <tag-name>`
 
 ```console
@@ -86,10 +86,10 @@ $ git tag -a v1.2 9fceb02
 
 ### Pushing Tags
 
-Tags have to be pushed to the remote server separately, using 
+Tags have to be pushed to the remote server separately, using \
 `git push origin <tagname>`
 
-We can also push all tags at once using `--tags`
+We can also push all tags at once using `--tags`\
 `git push origin --tags`
 
 #### Deleting Tags
