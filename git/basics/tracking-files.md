@@ -1,4 +1,4 @@
-[Table of Contents](../README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
+[Table of Contents](README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 ___
@@ -23,7 +23,7 @@ Takes everything from staging area and makes a permanent snapshot of the current
 Every time you run `git commit` a snapshot is saved that the project can be reverted to later
 
 ##### overwrite error
-There's a possibility that the local repository has changes that have not been committed, and the project has moved on, causing an error when trying to commit. One solution can be found [here](./fixed-errors-troubleshoot.md#Cannot%20because%20of%20override%20error)
+There's a possibility that the local repository has changes that have not been committed, and the project has moved on, causing an error when trying to commit. One solution can be found [here](fixed-errors-troubleshoot.md#Cannot%20because%20of%20override%20error)
 ___
 ## `git push`
 
@@ -31,4 +31,4 @@ This adds the changes from the git repository to the repository on GitHub
 Changes are "final", although there are previous snapshots in case things break
 ___
 
-![git add commit](../images/git-add-commit.png)
+![git add commit](git-add-commit.png)

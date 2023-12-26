@@ -6,17 +6,17 @@ ___
 If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how useful it will be to you. This is just a quick ref for some of the stuff I constantly search the web for. 
 ## Table of Contents
 1. git/version control
-  - [git-started](./git/git-started.md) 
-  - [tracking-files](./git/tracking-files.md)
-  - [clone-fetch-pull](./git/clone-fetch-pull.md)
-  - [ignore](./git/ignore.md)
-  - [move-remove](./git/move-remove.md)
-  - [help](./git/help.md)
-  - [fixed-errors-troubleshoot](./git/fixed-errors-troubleshoot.md)
-  - [log history](./git/log-history.md)
-  - [undo](./git/undo.md)
-  - [remotes](./git/remotes.md)
-  - [tagging-aliases](./git/tagging-aliases.md)
+  - [git-started](git-started.md) 
+  - [tracking-files](tracking-files.md)
+  - [clone-fetch-pull](clone-fetch-pull.md)
+  - [ignore](ignore.md)
+  - [move-remove](move-remove.md)
+  - [help](help.md)
+  - [fixed-errors-troubleshoot](fixed-errors-troubleshoot.md)
+  - [log history](log-history.md)
+  - [undo](undo.md)
+  - [remotes](remotes.md)
+  - [tagging-aliases](tagging-aliases.md)
 
 
 
