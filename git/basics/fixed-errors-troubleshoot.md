@@ -6,5 +6,5 @@ ___
 ![overwrite error](../../images/overwrite-error.png)
 
 Run `git stash` to store the changes elsewhere. Then you can run `git pull` to pull the repository and `git stash drop`to remove the old files:\
-![overwrite error solution](overwrite-error-solution.png)
+![overwrite error solution](../../images/overwrite-error-solution.png)
 ___
