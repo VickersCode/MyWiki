@@ -1,6 +1,6 @@
-[Table of Contents](README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
-credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+[Table of Contents](/README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 
+credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 ___
 There is an easy way to view previous snapshots.
 Here's an example of running `git log` on this project
