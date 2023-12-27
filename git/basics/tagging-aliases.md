@@ -1,4 +1,4 @@
-[Table of Contents](README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
+[Table of Contents](/README.md) | [Markdown Cheatsheet](/Markdown%20Cheatsheet.md)
 
 credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 ___
@@ -146,7 +146,7 @@ $ git config --global alias.ci commit`
 A common alias allows us to easily view the latest commit
 
 ```console
-$git config --global alias.last `log -1 HEAD`
+$ git config --global alias.last `log -1 HEAD`
 ```
 
 
