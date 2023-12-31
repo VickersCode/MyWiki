@@ -16,103 +16,31 @@
             }
           },
           {
-            "id": "bbac6517da4315e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/tracking-files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "794071882ed8fa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/clone-fetch-pull.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "790c1e6111698e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/tracking-files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "304d990cbaded40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5165c4517d6da19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/move-remove.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "241d0404102d220b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/log-history.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e57669b732516c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "git/branches/intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b368fae8218ba62d",
+            "id": "1a72877d9dde21f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/tagging-aliases.md",
+                "file": "git/branches/basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/tagging-aliases.md",
+                "file": "git/branches/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/tagging-aliases.md",
+                "file": "git/branches/basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/tagging-aliases.md"
+                "file": "git/branches/basics.md"
               }
             }
           }
@@ -239,9 +167,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b368fae8218ba62d",
+  "active": "1a72877d9dde21f2",
   "lastOpenFiles": [
+    "git/branches/intro.md",
+    "git/branches/basics.md",
+    "images/commit-testing.png",
+    "images/git-add-commit.png",
+    "images/git-log.PNG",
+    "images/head-to-master.png",
+    "images/overwrite-error.png",
+    "images/overwrite-error-solution.png",
     "README.md",
+    "git/clone-fetch-pull.md",
+    "git/branches",
+    "git/basics/undo.md",
+    "git/basics/tracking-files.md",
+    "git/basics/tagging-aliases.md",
+    "git/basics/remotes.md",
+    "git/basics/move-remove.md",
+    "git/basics/log-history.md",
+    "git/basics/ignore.md",
+    "git/basics/help.md",
+    "git/basics/git-started.md",
+    "git/basics/fixed-errors-troubleshoot.md",
+    "git/basics/clone-fetch-pull.md",
+    "git/basics",
     "git/tagging-aliases.md",
     "git/remotes.md",
     "git/undo.md",
@@ -252,22 +202,11 @@
     "git/help.md",
     "git/git-started.md",
     "git/fixed-errors-troubleshoot.md",
-    "git/clone-fetch-pull.md",
     "Markdown Cheatsheet.md",
-    "images/git-log.PNG",
-    "git/viewing-commit-history.md",
     "images/git-log.png",
-    "Markdown&.md",
-    "Markdown_Cheatsheet.md",
-    "Markdown.md",
-    "images/overwrite-error.png",
-    "images/overwrite-error-solution.png",
     "Untitled.canvas",
-    "2023-12-13.md",
-    "images/git-add-commit.png",
     "images/git-add-commit.png.crdownload",
     "images",
-    "git.md",
     "git"
   ]
 }
