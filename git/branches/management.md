@@ -28,7 +28,22 @@ $ git branch --merged
 $ git branch --no-merged
 ```
 This could be useful to help us determine if it's okay to delete a branch or not.
-
+___
 #### Changing Branch Name
+
+Do not rename a branch if it is still in use by other collaborators
+
+To rename, we have to use the `--move` command.
+```console
+$ git branch --move bad-branch-name corrected-branch-name
+```
+However, this is only local until we push
+```console
+$ git push --set-upstream origin corrected-branch-name
+```
+The old branch will still be there if we run `git branch --all`, we can just delete it using 
+```console
+$ git push origin --delete old-branch-name
+```
 
 
