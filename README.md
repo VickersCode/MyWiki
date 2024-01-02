@@ -20,7 +20,8 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		- [tagging-aliases](./git/basics/tagging-aliases.md)
 	 2. branches
 		 - [intro](./git/branches/intro.md)
-		 - 
+		 - [basics](./git/branches/basics.md)
+		 - [management](./git/branches/management.md)
 		 
 
 

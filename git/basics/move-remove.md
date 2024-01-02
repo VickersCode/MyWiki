@@ -27,3 +27,5 @@ $ git mv file_from file_to
 "
 
 Basically, this is the best way to rename a file.
+Renaming branches can be found [here](../branches/management.md#Changing%20Branch%20Name)
+
