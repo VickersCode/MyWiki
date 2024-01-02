@@ -5,7 +5,7 @@ credit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 ___
 There is an easy way to view previous snapshots.
 Here's an example of running `git log` on this project
-![git log](git-log.PNG)
+![git log](../../images/git-log.PNG)
 
 This table shows the most common tags used with `git log`
 
