@@ -22,6 +22,7 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		 - [intro](./git/branches/intro.md)
 		 - [basics](./git/branches/basics.md)
 		 - [management](./git/branches/management.md)
+		 - [rebase](./git/branches/rebase.md)
 		 
 
 
