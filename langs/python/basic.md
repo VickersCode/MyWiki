@@ -9,6 +9,15 @@ print("Hello World")
 ```
 Gotta stick with the cliche.
 
+#### Variables
+```python
+var = "string"
+var = 1
+var = 1.234
+var = True or False
+var = [list]
+```
+
 ### Comment using '#'
 
 ```python
