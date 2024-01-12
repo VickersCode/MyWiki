@@ -25,3 +25,19 @@ comment
 """
 ```
 
+### Loops
+
+```python
+for i in data:
+	statement
+```
+
+```python
+while True:
+	statement
+
+while i < 10:
+	statement
+	i ++
+```
+

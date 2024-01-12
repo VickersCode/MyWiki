@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7c239d707b8ef2f",
+  "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
-    "git/basics/clone-fetch-pull.md",
+    "Markdown Cheatsheet.md",
+    "git/basics/fixed-errors-troubleshoot.md",
     "langs/python/basic.md",
+    "git/basics/clone-fetch-pull.md",
     "langs/python",
     "langs",
     "git/branches/basics.md",
@@ -185,7 +187,6 @@
     "git/basics/ignore.md",
     "git/basics/help.md",
     "git/basics/git-started.md",
-    "git/basics/fixed-errors-troubleshoot.md",
     "git/basics",
     "git/tagging-aliases.md",
     "git/remotes.md",
@@ -196,7 +197,6 @@
     "git/ignore.md",
     "git/help.md",
     "git/git-started.md",
-    "git/fixed-errors-troubleshoot.md",
     "images/git-log.png",
     "Untitled.canvas",
     "images/git-add-commit.png.crdownload",
