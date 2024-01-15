@@ -9,7 +9,7 @@ print("Hello World")
 ```
 Gotta stick with the cliche.
 
-#### Variables
+#### Variables and Data Types
 ```python
 var = "string"
 var = 1
@@ -18,12 +18,18 @@ var = True or False
 var = [list]
 ```
 
+We can also use one line to assign multiple variables
+```python
+x, y, z = 1, 2, 3
+i, j, k = 0 #Assigns 0 to all three variables
+```
+
 We can get the variable's data type using
 ```python
 print(type(var))
 ```
 
-These are all of the built in data types
+###### Data Types
 
 | Category | Type |
 | ---- | ---- |
@@ -36,13 +42,22 @@ These are all of the built in data types
 | Binary | `bytes, bytearray, memoryview` |
 | None | `NoneType` |
 
+Complex numbers are exactly what we think, usually denoted 'i' for the square root of negative one. In python, we use 'j'
 
-We can also use one line to assign multiple variables
 ```python
-x, y, z = 1, 2, 3
-i, j, k = 0 #Assigns 0 to all three variables
+x = 3 + 5j #Complex number 'j'
 ```
 
+We can convert from one type to another
+```python
+x = 1
+y = 4.20
+z = 69j
+
+a = float(x) # 1.0
+b = int(y) # 4
+c = complex(x) # (1+0j)
+```
 ### Comment using '#'
 
 ```python
