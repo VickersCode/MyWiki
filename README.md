@@ -5,7 +5,7 @@ Because I want a concise place to search.
 
 If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how useful it will be to you. This is just a quick ref for some of the stuff I constantly search the web for. 
 ## Table of Contents
-1. git/version control
+1.  git/version control
 	1. basics
 		- [git-started](./git/basics/git-started.md) 
 		- [tracking-files](./git/basics/tracking-files.md)
@@ -23,6 +23,9 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		 - [basics](./git/branches/basics.md)
 		 - [management](./git/branches/management.md)
 		 - [rebase](./git/branches/rebase.md)
+2. languages
+	1. python
+		- [basic](./langs/python/basics.md)
 		 
 
 
