@@ -26,7 +26,8 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 2. languages
 	1. python
 		- [basic](./langs/python/basics.md)
-		 
+		- [strings](./langs/python/strings.md)
+		- 
 
 
 
