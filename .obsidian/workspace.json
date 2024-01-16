@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langs/python/strings.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
+    "Markdown Cheatsheet.md",
     "langs/python/basic.md",
     "langs/python/strings.md",
     "README.md",
@@ -161,7 +162,6 @@
     "git/branches/management.md",
     "git/branches/intro.md",
     "git/branches/basics.md",
-    "Markdown Cheatsheet.md",
     "git/basics/fixed-errors-troubleshoot.md",
     "git/basics/clone-fetch-pull.md",
     "langs/python",

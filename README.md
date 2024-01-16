@@ -3,7 +3,7 @@ ___
 # VickersCode Personal Coding Wiki
 Because I want a concise place to search.
 
-If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how useful it will be to you. This is just a quick ref for some of the stuff I constantly search the web for. 
+If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how useful it will be to you. This is just a quick ref for some of the things I constantly search the web for. It's meant to be very concise. Knowledge is assumed.
 ## Table of Contents
 1.  git/version control
 	1. basics
