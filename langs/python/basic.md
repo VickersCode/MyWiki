@@ -58,6 +58,13 @@ a = float(x) # 1.0
 b = int(y) # 4
 c = complex(x) # (1+0j)
 ```
+
+I plan on having a section for libs, but we can use the random library to generate random numbers
+```python
+import random
+
+x = random.randrange(1,10)
+```
 ### Comment using '#'
 
 ```python
