@@ -21,3 +21,9 @@ wrong_string = "new world new"
 correct_string = wrong_string[4:] # becomes "world new"
 ```
 
+To make all characters upper or lowercase
+```python
+s = "string"
+upper = s.upper() # becomes "STRING"
+lower = upper.lower() # becomes "string"
+```
