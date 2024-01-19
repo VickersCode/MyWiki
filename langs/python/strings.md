@@ -30,4 +30,8 @@ upper = s.upper() # becomes "STRING"
 lower = upper.lower() # becomes "string"
 ```
 
-
+To remove all whitespace from beginning or end
+```python
+s = "  some string  "
+d = s.strip() # "some string"
+```
