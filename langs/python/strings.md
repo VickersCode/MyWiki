@@ -35,3 +35,20 @@ To remove all whitespace from beginning or end
 s = "  some string  "
 d = s.strip() # "some string"
 ```
+
+We can replace a string with another
+```python
+a = "Hello, World!"
+print(a.replace("H", "J")) # "Jello World"
+```
+
+Or split the words into a list
+```python
+a = "let's split this into a list"
+d = a.split(" ") 
+
+# ["let's", 'split', 'this', 'into', 'a', 'list']
+```
+
+
+
