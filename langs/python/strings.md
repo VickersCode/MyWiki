@@ -2,6 +2,8 @@
 
 [Table of Contents](../../README.md) | [Markdown Cheatsheet](../../Markdown%20Cheatsheet.md)
 ___
+
+A good reference for string methods can be found [here](https://www.w3schools.com/python/python_ref_string.asp)
 ### Slicing
 ```python
 string_to_slice = "I want this slice string sliced"
