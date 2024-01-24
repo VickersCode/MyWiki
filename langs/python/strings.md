@@ -52,5 +52,14 @@ d = a.split(" ")
 # ["let's", 'split', 'this', 'into', 'a', 'list']
 ```
 
+##### Concatenation
+We can "combine" strings using the '+' operator.
+```python
+a = "Hello"  
+b = "World"  
+c = a + b  
+print(c)
+```
+
 
 
