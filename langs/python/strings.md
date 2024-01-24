@@ -61,5 +61,22 @@ c = a + b
 print(c)
 ```
 
+#### Format Strings
+Strings cannot be combined with int() data types, so we use the `format()` method
 
+```python
+candles = 28
+txt = "I have {} candles on my birthday cake."
+print(txt.format(candles))  # prints "I have 28 candles on my birthday cake."
+```
+
+The `format()` method can take unlimited arguments
+
+```python
+quantity = 3  
+itemno = 567  
+price = 49.95  
+myorder = "I want to pay {2} dollars for {0} pieces of item {1}."  
+print(myorder.format(quantity, itemno, price))
+```
 
