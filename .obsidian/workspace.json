@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "langs/python/basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "right": {
     "id": "d5f4bfc7892f3844",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "langs/python/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langs/python/strings.md",
+                "file": "langs/python/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langs/python/strings.md"
+                "file": "langs/python/basic.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
-    "README.md",
     "Markdown Cheatsheet.md",
     "langs/python/basic.md",
     "langs/python/strings.md",
+    "README.md",
     "git/basics/log-history.md",
     "git/basics/move-remove.md",
     "git/basics/remotes.md",

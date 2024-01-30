@@ -6,6 +6,8 @@ credit:
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
 [https://docs.python.org/3/](https://docs.python.org/3/)
 ___
+#### Quick Links (on this page)
+[Variables and Data Types](#Variables%20and%20Data%20Types)
 
 ### Print statements are great for debugging
 ```python
@@ -101,4 +103,6 @@ while i < 10:
 	statement
 	i ++
 ```
+
+### Booleans
 

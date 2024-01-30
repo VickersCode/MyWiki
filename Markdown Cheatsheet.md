@@ -71,9 +71,9 @@ ___
 
 ##### Internal to another file
 [Table of Contents](/README.md)
-`[Table of Contents](/README.md`
+`[Table of Contents](/README.md)`
 
-##### Internal to a header
+##### Internal to a header 
 [Bold/Italic](#Bold/Italic)
 `[Bold/Italic](#Bold/Italic)` - field after hashtag represents name of link on page.
 ___

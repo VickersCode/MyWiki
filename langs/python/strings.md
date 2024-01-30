@@ -102,7 +102,8 @@ And this is how we use these few examples
 
 txt = "The binary version of {0} is {0:b}"
 
-print(txt.format(5))
+print(txt.format(5)) 
+# prints "The binary version of 5 is 101"
 
 ```
 
@@ -110,7 +111,8 @@ print(txt.format(5))
 #Use "d" to convert a number, in this case a binary number, into decimal number format:
 
 txt = "We have {:d} chickens."
-print(txt.format(0b101))
+print(txt.format(0b101)) 
+# prints "We have 5 chickens."
 
 ```
 
