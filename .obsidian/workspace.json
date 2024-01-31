@@ -148,10 +148,10 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
-    "langs/python/basic.md",
     "langs/python/strings.md",
+    "Markdown Cheatsheet.md",
     "README.md",
+    "langs/python/basic.md",
     "git/basics/log-history.md",
     "git/basics/move-remove.md",
     "git/basics/remotes.md",
