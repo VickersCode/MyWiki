@@ -8,6 +8,9 @@ credit:
 ___
 #### Quick Links (on this page)
 [Variables and Data Types](#Variables-and-Data-Types)
+[Comments](#Comments)
+[Loops](#Loops)
+[Booleans](#Booleans)
 
 
 ### Print statements are great for debugging
