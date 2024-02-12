@@ -75,6 +75,10 @@ import random
 
 x = random.randrange(1,10)
 ```
+
+### Booleans
+
+
 ### Comment using '#'
 
 ```python
@@ -107,6 +111,4 @@ while i < 10:
 	statement
 	i ++
 ```
-
-### Booleans
 
