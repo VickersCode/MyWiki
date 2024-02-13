@@ -8,9 +8,10 @@ credit:
 ___
 #### Quick Links (on this page)
 [Variables and Data Types](#Variables-and-Data-Types)
+[Booleans](#Booleans)
 [Comments](#Comments)
 [Loops](#Loops)
-[Booleans](#Booleans)
+
 
 
 ### Print statements are great for debugging
@@ -77,6 +78,9 @@ x = random.randrange(1,10)
 ```
 
 ### Booleans
+
+As we know, Booleans are the T/F stuff. Using a number of operators, we can return True or False (they are capitalized in Python)
+
 
 
 ### Comment using '#'
