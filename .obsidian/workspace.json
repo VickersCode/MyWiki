@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/basics/tracking-files.md",
+                "file": "langs/python/advanced-operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/basics/tracking-files.md",
+                "file": "langs/python/advanced-operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/basics/tracking-files.md",
+                "file": "langs/python/advanced-operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/basics/tracking-files.md"
+                "file": "langs/python/advanced-operators.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
+    "langs/python/strings.md",
+    "README.md",
+    "langs/python/advanced-operators.md",
+    "langs/python/basic.md",
+    "git/basics/tracking-files.md",
     "git/basics/tagging-aliases.md",
     "git/basics/remotes.md",
     "git/basics/move-remove.md",
@@ -156,11 +161,7 @@
     "git/basics/help.md",
     "git/basics/git-started.md",
     "git/basics/clone-fetch-pull.md",
-    "langs/python/basic.md",
-    "langs/python/strings.md",
     "Markdown Cheatsheet.md",
-    "README.md",
-    "git/basics/tracking-files.md",
     "git/basics/undo.md",
     "git/branches/rebase.md",
     "git/branches/management.md",
@@ -183,7 +184,6 @@
     "git/undo.md",
     "git/tracking-files.md",
     "git/move-remove.md",
-    "git/log-history.md",
     "images/git-log.png",
     "Untitled.canvas",
     "images/git-add-commit.png.crdownload",
