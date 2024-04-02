@@ -22,11 +22,11 @@ Gotta stick with the cliche.
 
 #### Variables and Data Types
 ```python
-var = "string"
-var = 1
-var = 1.234
-var = True or False
-var = [list]
+var = "string"      #string
+var = 1             #int
+var = 1.234         #float
+var = True or False #bool
+var = [list]        #list
 ```
 
 We can also use one line to assign multiple variables

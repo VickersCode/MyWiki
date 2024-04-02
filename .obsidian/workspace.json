@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langs/python/basic.md",
+                "file": "git/basics/tracking-files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langs/python/basic.md",
+                "file": "git/basics/tracking-files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langs/python/basic.md",
+                "file": "git/basics/tracking-files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langs/python/basic.md"
+                "file": "git/basics/tracking-files.md"
               }
             }
           }
@@ -148,14 +148,18 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
+    "git/basics/tagging-aliases.md",
+    "git/basics/remotes.md",
+    "git/basics/move-remove.md",
+    "git/basics/log-history.md",
+    "git/basics/ignore.md",
+    "git/basics/help.md",
+    "git/basics/git-started.md",
+    "git/basics/clone-fetch-pull.md",
+    "langs/python/basic.md",
     "langs/python/strings.md",
     "Markdown Cheatsheet.md",
     "README.md",
-    "langs/python/basic.md",
-    "git/basics/log-history.md",
-    "git/basics/move-remove.md",
-    "git/basics/remotes.md",
-    "git/basics/tagging-aliases.md",
     "git/basics/tracking-files.md",
     "git/basics/undo.md",
     "git/branches/rebase.md",
@@ -163,7 +167,6 @@
     "git/branches/intro.md",
     "git/branches/basics.md",
     "git/basics/fixed-errors-troubleshoot.md",
-    "git/basics/clone-fetch-pull.md",
     "langs/python",
     "langs",
     "images/commit-testing.png",
@@ -174,9 +177,6 @@
     "images/overwrite-error-solution.png",
     "git/clone-fetch-pull.md",
     "git/branches",
-    "git/basics/ignore.md",
-    "git/basics/help.md",
-    "git/basics/git-started.md",
     "git/basics",
     "git/tagging-aliases.md",
     "git/remotes.md",
