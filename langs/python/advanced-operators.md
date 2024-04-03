@@ -37,7 +37,8 @@ Used to assign values to variables
 | ^=       | x ^= 3  | x = x ^ 3  |
 | >>=      | x >>= 3 | x = x >> 3 |
 | <<=      | x <<= 3 | x = x << 3 |
-The `<<` and `>>` operators are bitwise operators and will be described [below](./#Bitwise-Operators)
+
+The `<<` and `>>` operators are bitwise operators and will be described [below](#Bitwise-Operators)
 
 Operators like `x += 3` are a quicker way of writing `x = x + 3`
 
