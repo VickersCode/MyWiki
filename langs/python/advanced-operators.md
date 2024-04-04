@@ -3,8 +3,8 @@
 [Table of Contents](../../README.md) | [Markdown Cheatsheet](../../Markdown%20Cheatsheet.md)
 
 credit: 
-[https://www.w3schools.com/python/](https://www.w3schools.com/python/)
-[https://docs.python.org/3/](https://docs.python.org/3/)
+[https://www.w3schools.com/python/](https://www.w3schools.com/python/python_operators.asp)
+[https://docs.python.org/3/](https://docs.python.org/3/library/operator.html)
 ___
 ## Arithmetic Operators
 Used to perform mathematical computations
@@ -20,7 +20,7 @@ Used to perform mathematical computations
 | //       | Floor division | x // y  |
 
 ## Order of Operations
-Maths will be evaluated in this order. The two operators have the same precedence, it will be evaluated from left to right.
+Maths will be evaluated in this order. If two operators have the same precedence, it will be evaluated from left to right.
 
 | Operator                                                         | Description                                           |
 | ---------------------------------------------------------------- | ----------------------------------------------------- |
