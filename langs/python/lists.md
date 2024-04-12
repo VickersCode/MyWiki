@@ -39,3 +39,26 @@ print(len(myList))
 
 ## Accessing Elements
 
+Use index notation:
+(negative numbers start with the last entry, beginning with -1. There is no -0.)
+
+```python 
+myList = ['a','b','c','d','e']
+print(myList[0]) #prints 'a'
+```
+
+#### Using Ranges
+
+If we used `print(myList[1:3])` on myList, we would get the list `['b','c']` because the 1 is inclusive and the 3 is not.
+
+#### Checking Existance
+Use an if.
+
+```python
+myList = ["turtle", "bear", "dog"]
+if "dog" in myList:
+	print("True")
+```
+
+
+
