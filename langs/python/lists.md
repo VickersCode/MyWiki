@@ -10,7 +10,7 @@ ___
 ## Lil Intro
 
 Brackets are used to denotes lists
-Mixed data types are allowed
+Mixed data types are allowed in Python
 
 ```python
 thisList = [1, 2, "apple"]
@@ -52,7 +52,7 @@ print(myList[0]) #prints 'a'
 If we used `print(myList[1:3])` on myList, we would get the list `['b','c']` because the 1 is inclusive and the 3 is not.
 
 #### Checking Existance
-Use an if.
+Use an if in.
 
 ```python
 myList = ["turtle", "bear", "dog"]
@@ -61,4 +61,25 @@ if "dog" in myList:
 ```
 
 
+## Changing List Items
+
+For a single item, just use the index:
+```python
+myList = [1,2,3]
+myList[0] = 3 #[3,1,3]
+```
+
+For multiple, grouped together changes, use a range of indexes:
+```python
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]  
+thislist[1:3] = ["blackcurrant", "watermelon"]  
+#['apple', 'blackcurrant', 'watermelon', 'orange', 'kiwi', 'mango']
+```
+
+However, if we insert more items than we remove, they will just get pushed in to the list.
+```python
+myList = [1,2,3]
+myList[1:2] = [3,1]
+# [1,3,1,3]
+```
 
