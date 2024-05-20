@@ -4,7 +4,7 @@
 
 credit: 
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
-[https://docs.python.org/3/](https://docs.python.org/3/)
+[https://docs.python.org/3/](https://docs.python.org/3/tutorial/datastructures.html)
 ___
 
 ## Lil Intro
@@ -76,10 +76,28 @@ thislist[1:3] = ["blackcurrant", "watermelon"]
 #['apple', 'blackcurrant', 'watermelon', 'orange', 'kiwi', 'mango']
 ```
 
-However, if we insert more items than we remove, they will just get pushed in to the list.
+However, if we insert more items than we remove, they will just get pushed in to the list. The reverse happens if we input less than we removed.
 ```python
 myList = [1,2,3]
 myList[1:2] = [3,1]
 # [1,3,1,3]
 ```
 
+## Add/Remove List Items
+
+use `insert()` to just add something to certain index without replacing.
+```python
+myList = [4,2,1]
+myList.insert(1, 3)
+# [4,3,2,1]
+```
+
+the `append()` method adds an item to the end of a list.
+
+Use `extend()` to append another list to a list. This can be any inerrable object like tuples, dictionaries, etc. 
+```python
+myList = [1,2,3]
+myTuple = (4,5)
+myList.extend(myTuple)
+# [1,2,3,4,5]
+```
