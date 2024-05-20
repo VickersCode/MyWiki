@@ -94,10 +94,18 @@ myList.insert(1, 3)
 
 the `append()` method adds an item to the end of a list.
 
-Use `extend()` to append another list to a list. This can be any inerrable object like tuples, dictionaries, etc. 
+Use `extend()` to append another list to a list. This can be any iterable object like tuples, dictionaries, etc. 
 ```python
 myList = [1,2,3]
 myTuple = (4,5)
 myList.extend(myTuple)
 # [1,2,3,4,5]
 ```
+
+Use the `remove()` method to remove a specific item from a list. If there are more than one of the intended item, only the first will be removed. 
+```python
+myList = [1,1,2,3,4,5]
+myList.remove(1)
+# [1,2,3,4,5]
+```
+

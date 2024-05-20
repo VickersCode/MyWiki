@@ -28,6 +28,7 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		- [basic](./langs/python/basic.md)
 		- [strings](./langs/python/strings.md)
 		- [advanced-operators](./langs/python/advanced-operators.md)
+		- [lists](./langs/python/lists.md)
 
 
 
