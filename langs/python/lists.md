@@ -109,3 +109,4 @@ myList.remove(1)
 # [1,2,3,4,5]
 ```
 
+The `pop()` method can be used to remove specific indices. If no index is provided, the method will remove the last item.
