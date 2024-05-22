@@ -130,3 +130,29 @@ del myList[0]
 ```
 
 Finally, the `clear()` method empties a list. There is still a list, it's just empty. 
+
+## Looping 
+
+Loop through each item in a list:
+```python
+myList = [1,2,3,4]
+for x in myList:
+	print(x)
+```
+
+Loop by index number. We can use the `range()` and `len()` functions
+```python
+myList = [1,2,3,4,5]
+for i in range(len(myList)):
+	print(myList[i])
+```
+
+There is an entire while loop chapter, but here is a quick example for lists. Always ensure the loop has a breaking point.
+```python
+myList = [1,2,3,4,5]
+i = 0 #incrementer
+while i < len(myList):
+	print(myList[i])
+	i = i + 1
+```
+
