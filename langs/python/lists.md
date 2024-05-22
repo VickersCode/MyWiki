@@ -110,3 +110,23 @@ myList.remove(1)
 ```
 
 The `pop()` method can be used to remove specific indices. If no index is provided, the method will remove the last item.
+```python
+# pop by index
+myList = [1,1,2,3,4,5]
+myList.pop(1)
+# [1,2,3,4,5]
+
+# pop without index
+myList = [1,1,2,3,4,5]
+myList.pop()
+# [1,1,2,3,4]
+
+```
+
+The `del` keyword can delete entire lists, or items by index. 
+```python
+del myList
+del myList[0]
+```
+
+Finally, the `clear()` method empties a list. There is still a list, it's just empty. 
