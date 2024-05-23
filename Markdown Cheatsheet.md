@@ -155,3 +155,12 @@ Want to see a footnote? [^1]
 
 `> "This is a block quote"`
 
+
+> [!warning]
+> This is a warning
+
+
+```
+> [!warning]
+> This is a warning
+```

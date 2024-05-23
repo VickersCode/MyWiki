@@ -156,3 +156,59 @@ while i < len(myList):
 	i = i + 1
 ```
 
+## List Comprehension
+
+Syntax
+```python
+myList = [expression for item in iterable if condition == True]
+```
+
+Use list comprehension for short syntax
+```python
+myList = [1,2,3,4,5]
+[print(x) for x in myList]
+```
+
+## Sorting Lists
+
+Using `myList.sort()` will sort the list alphanumerically, ascending.
+
+To sort descending, use `myList.sort(reverse = True`
+
+Be careful with case sensitivity, use `.sort(key = str.lower)` if there is more than one case. 
+
+`list.reverse()` is the quickest way to reverse the order of a list. 
+##### Custom Sorting
+
+By using the argument, `key = function`, we can sort in an unlimited amount of ways
+This example was grabbed from w3schools.
+Notice the function sorts the list and keeps the original values. It does not sort the evaluated values of `abs(n - 50)` into the list
+```python
+def myfunc(n):
+  return abs(n - 50)
+
+thislist = [100, 50, 65, 82, 23]
+
+thislist.sort(key = myfunc)
+
+print(thislist)
+# [50, 65, 23, 82, 100]
+```
+
+## Copying Lists
+
+> [!warning]
+> Do not copy lists by using `list2 = list1`
+
+This points the memory address of list2 to the memory address of list1. So, whenever you change list1, list2 will also change. Instead, we use the `copy()` method. 
+```python
+myList = [1,2,3,4,5]
+newList = myList.copy()
+```
+
+or the `list()` method. 
+```python
+myList = [1,2,3,4,5]
+newList = list(myList)
+```
+
