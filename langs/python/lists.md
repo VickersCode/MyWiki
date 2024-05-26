@@ -36,7 +36,21 @@ print(len(myList))
 
 # prints 3
 ```
+## Common Methods
 
+|Method|Description|
+|---|---|
+|[append()](https://www.w3schools.com/python/ref_list_append.asp)|Adds an element at the end of the list|
+|[clear()](https://www.w3schools.com/python/ref_list_clear.asp)|Removes all the elements from the list|
+|[copy()](https://www.w3schools.com/python/ref_list_copy.asp)|Returns a copy of the list|
+|[count()](https://www.w3schools.com/python/ref_list_count.asp)|Returns the number of elements with the specified value|
+|[extend()](https://www.w3schools.com/python/ref_list_extend.asp)|Add the elements of a list (or any iterable), to the end of the current list|
+|[index()](https://www.w3schools.com/python/ref_list_index.asp)|Returns the index of the first element with the specified value|
+|[insert()](https://www.w3schools.com/python/ref_list_insert.asp)|Adds an element at the specified position|
+|[pop()](https://www.w3schools.com/python/ref_list_pop.asp)|Removes the element at the specified position|
+|[remove()](https://www.w3schools.com/python/ref_list_remove.asp)|Removes the item with the specified value|
+|[reverse()](https://www.w3schools.com/python/ref_list_reverse.asp)|Reverses the order of the list|
+|[sort()](https://www.w3schools.com/python/ref_list_sort.asp)|Sorts the list|
 ## Accessing Elements
 
 Use index notation:
@@ -210,5 +224,33 @@ or the `list()` method.
 ```python
 myList = [1,2,3,4,5]
 newList = list(myList)
+```
+
+## Joining Lists
+
+Or, concatenation
+```python
+list1 = [1,2,3]
+list2 = [4,5,6]
+
+list3 = list1 + list2
+# [1,2,3,4,5,6]
+```
+
+`append()` adds an item to this list, so we can use a for loop to add one list to another
+```python
+list1 = [1,2,3]
+list2 = [4,5,6]
+
+for x in list2:
+	list1.append(x)
+```
+
+`extend()` does not need a for loop
+```python
+list1 = [1,2,3]
+list2 = [4,5,6]
+
+list1.extend(list2)
 ```
 
