@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langs/python/lists.md",
+                "file": "langs/python/basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langs/python/lists.md",
+                "file": "langs/python/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langs/python/lists.md",
+                "file": "langs/python/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langs/python/lists.md"
+                "file": "langs/python/basic.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bcf10d7c2eae59eb",
   "lastOpenFiles": [
-    "langs/python/strings.md",
     "langs/python/lists.md",
+    "langs/python/strings.md",
     "langs/python/advanced-operators.md",
     "README.md",
     "Markdown Cheatsheet.md",
