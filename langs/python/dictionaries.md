@@ -26,6 +26,12 @@ print(myDict)
 # {2: 4, 4: 16, 6: 36}
 ```
 
+if each key is a simple string, use keyword arguments
+```python
+dict(sape=4139, guido=4127, jack=4098)
+{'sape': 4139, 'guido': 4127, 'jack': 4098}
+```
+
 Get the number of entries using the `len()` method.
 
 Values can be any data type.
@@ -40,5 +46,20 @@ print(myDict)
 
 > [!warning]
 > As of Python 3.7, dictionaries are ordered. Previous versions are unordered.
+
+___
+
+## Accessing Keys/Values
+
+To get the value, refer to the dictionary putting the key in brackets
+```python
+myDict = {
+	"name": "Pikachu"
+	"type": "Electric"
+	"hp": 55
+}
+
+x = myDict["name"]
+```
 
 
