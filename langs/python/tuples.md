@@ -26,6 +26,13 @@ myTuple = tuple((1,2,3))
 ___
 ## Updating Tuples
 
+#### Unpacking Tuples (This one is kinda common)
+When we assign the values into a tuple, we are packing it. Unpacking is a way to assign the values of the tuple to variables using the example: `x, y, z = myTuple` 
+```python
+myTuple = (5, 8, 3)
+HP, ATTCK, DEF = myTuple
+```
+
 #### Changing Values
 Yes, tuples are immutable, but there is a workaround. We can convert the tuple into a list, change the list, and then change it back into a tuple. Like so
 ```python
@@ -66,3 +73,17 @@ myTuple = tuple(tupleList)
 ```
 
 Using `del myTuple` well remove the tuple from memory completely
+
+#### Asterisks
+When unpacking a Tuple, if one of the variables has an asterisk, it is meant to take the overflow of the tuple is longer than the amount of variables given. If the variable with the asterisk is not at the end of the "list of variables", python will fill that variable with a list until there are enough for each of the rest of the variables.
+```python
+myTuple = (1,2,3,4,5,6)
+(george, will, (*harry) = myTuple
+
+print(george) # 1
+print(will)   # 2
+print(harry)  # [3,4,5,6]
+```
+
+#### Joining Tuples
+This is the same as joining lists. Use concatenation. Can multiply a tuple into a new variable as well.
