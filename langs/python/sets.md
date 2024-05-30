@@ -126,6 +126,93 @@ set4 = set1 | set2 | set3
 The `|` operator only works with other sets, but `union()` can take other data types. 
 
 #### Update
+`update()` places items from one set into another. It updates a set, does not create a new one.
+```python
+set1 = {1,2,3}
+set2 = {4,5,6}
+
+set1.update(set2)
+# {1,2,3,4,5,6}
+```
+
+#### Intersection
+Keep only the duplicates
+```python
+set1 = {1,2,3,4,5}
+set2 = {3,4,5,6,7}
+
+set3 = set1.intersection(set2)
+# {3,4,5}
+```
+The `&` operator also works, but only with other sets.
+```python
+set1 = {1,2,3,4,5}
+set2 = {3,4,5,6,7}
+
+set3 = set1 & set2
+```
+
+`intersection_update()` is like `update()`, instead of creating a new variable, we update an already existing set.
+```python
+set1 = {1,2,3,4,5}
+set2 = {3,4,5,6,7}
+
+set1.intersection_update(set2)
+```
+
+#### Difference
+Returns a new set that contains only items from the first set that are not present in the second. 
+```python
+set1 = {1,2,3,4,5}
+set2 = {4,5,6,7,8}
+
+set3 = set1.difference(set2)
+# {1,2,3}
+```
+
+The `-` operator also works, but only with other sets
+```python
+set1 = {1,2,3,4,5}
+set2 = {4,5,6,7,8}
+
+set3 = set1 - set2
+```
+`difference_update()` is like `update()`, instead of creating a new variable, we update an already existing set.
+```python
+set1 = {1,2,3,4,5}
+set2 = {4,5,6,7,8}
+
+set1.difference_update(set2)
+```
+
+#### Symmetric Difference
+Keeps only the elements **not** present in both sets
+```python
+set1 = {1,2,3,4,5,6}
+set2 = {2,4,6,8,10,12}
+
+set3 = set1.symmetric_difference(set2)
+# {1,3,5,8,10,12}
+```
+
+The `^` operator also works, but only with other sets
+```python
+set1 = {1,2,3,4,5,6}
+set2 = {2,4,6,8,10,12}
+
+set3 = set1 ^ set2
+```
+`symmetric_difference_update()` is like `update()`, instead of creating a new variable, we update an already existing set.
+```python
+set1 = {1,2,3,4,5,6}
+set2 = {2,4,6,8,10,12}
+
+set1.symmetric_difference_update(set2)
+print(set1)
+# {1,3,5,8,10,12}
+```
+
+
 
 
 
