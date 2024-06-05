@@ -49,7 +49,7 @@ print(myDict)
 
 ___
 
-## Accessing Keys/Values
+## Accessing Items
 
 To get the value, refer to the dictionary putting the key in brackets
 ```python
@@ -62,4 +62,27 @@ myDict = {
 x = myDict["name"]
 ```
 
+Or use the `.get()` method: `x = myDict.get("name")`
+
+##### Return a list of keys
+by using `x = myDict.keys()`
+This will be all the keys stored in the dictionary
+
+##### Return a list of values
+by using `x = myDict.values()`
+
+##### Return a list of key:value pairs in tuples
+```python
+myDict = {
+  "name": "Charles",
+  "profession": "Driver",
+  "year": 2024
+}
+
+x = myDict.items()
+
+print(x)
+
+# dict_items([('name', 'Charles'), ('profession', 'Driver'), ('year', 2024)])
+```
 
