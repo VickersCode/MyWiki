@@ -72,6 +72,7 @@ This will be all the keys stored in the dictionary
 by using `x = myDict.values()`
 
 ##### Return a list of key:value pairs in tuples
+using the `.items()` method
 ```python
 myDict = {
   "name": "Charles",
@@ -85,4 +86,30 @@ print(x)
 
 # dict_items([('name', 'Charles'), ('profession', 'Driver'), ('year', 2024)])
 ```
+
+### Changing Values (Add Values)
+
+There are two ways to change values. For both, if the key does not exist, a new key:value pair will be added.
+The first is to use bracket notation
+```python
+myDict = {
+	"name": "Pikachu"
+	"type": "Electric"
+	"hp": 55
+}
+
+myDict["hp"] = 40
+```
+The second is to use the `update()` method.
+```python
+myDict = {
+	"name": "Pikachu"
+	"type": "Electric"
+	"hp": 55
+}
+
+myDict.update({"hp": 40})
+```
+
+
 
