@@ -6,14 +6,29 @@ credit:
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
 [https://docs.python.org/3/](https://docs.python.org/3/)
 ___
+## Common Methods
+|Method|Description|
+|---|---|
+|[clear()](https://www.w3schools.com/python/ref_dictionary_clear.asp)|Removes all the elements from the dictionary|
+|[copy()](https://www.w3schools.com/python/ref_dictionary_copy.asp)|Returns a copy of the dictionary|
+|[fromkeys()](https://www.w3schools.com/python/ref_dictionary_fromkeys.asp)|Returns a dictionary with the specified keys and value|
+|[get()](https://www.w3schools.com/python/ref_dictionary_get.asp)|Returns the value of the specified key|
+|[items()](https://www.w3schools.com/python/ref_dictionary_items.asp)|Returns a list containing a tuple for each key value pair|
+|[keys()](https://www.w3schools.com/python/ref_dictionary_keys.asp)|Returns a list containing the dictionary's keys|
+|[pop()](https://www.w3schools.com/python/ref_dictionary_pop.asp)|Removes the element with the specified key|
+|[popitem()](https://www.w3schools.com/python/ref_dictionary_popitem.asp)|Removes the last inserted key-value pair|
+|[setdefault()](https://www.w3schools.com/python/ref_dictionary_setdefault.asp)|Returns the value of the specified key. If the key does not exist: insert the key, with the specified value|
+|[update()](https://www.w3schools.com/python/ref_dictionary_update.asp)|Updates the dictionary with the specified key-value pairs|
+|[values()](https://www.w3schools.com/python/ref_dictionary_values.asp)|Returns a list of all the values in the dictionary|
+
 ## Intro
 
 Dictionaries are ordered and changeable. They are made of key:value pairs. No duplicate keys. 
 
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 ```
@@ -54,8 +69,8 @@ ___
 To get the value, refer to the dictionary putting the key in brackets
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 
@@ -93,8 +108,8 @@ There are two ways to change values. For both, if the key does not exist, a new 
 The first is to use bracket notation
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 
@@ -103,8 +118,8 @@ myDict["hp"] = 40
 The second is to use the `update()` method.
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 
@@ -115,8 +130,8 @@ myDict.update({"hp": 40})
 Use `.pop()` to remove key:value pair by key name.
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 
@@ -128,14 +143,81 @@ myDict.pop("type")
 `del` keyword used with the dict and key is another way to remove specific items. Careful, if we don't specify a key, the whole dict will be deleted.
 ```python
 myDict = {
-	"name": "Pikachu"
-	"type": "Electric"
+	"name": "Pikachu",
+	"type": "Electric",
 	"hp": 55
 }
 
 del myDict["type"]
 ```
 `.clear()` will empty everything in the dictionary. 
+
+## Loops
+
+We can use for loops to get all keys, values, or pairs. 
+
+Keys (Two Methods)
+```python
+for x in myDict:
+	print(x)
+
+#OR
+
+for x in myDict.keys():
+	print(x)
+```
+
+Values (Two Methods)
+```python
+for x in myDict:
+	print(myDict[x])
+
+# OR
+
+for x in thisdict.values():
+	print(x)
+```
+
+Pairs
+```python
+myDict = {
+	"name": "Pikachu",
+	"type": "Electric",
+	"hp": 55
+}
+
+for x, y in myDict.items():
+	print(x, y)
+
+# name Pikachu
+# type Electric
+# hp   55
+```
+
+## Copying Dictionaries
+
+>[!Warning]
+>Do not uses `dict1 = dict2` to copy a dictionary. Changes made in dict1 will be made in dict2
+
+Use `.copy()` or `.dict()`
+```python
+myDict = {
+	"name": "Pikachu",
+	"type": "Electric",
+	"hp": 55
+}
+
+newDict = myDict.copy()
+
+# OR
+
+newDict = dict(myDict)
+```
+
+## Nested Dictionaries
+
+
+
 
 
 
