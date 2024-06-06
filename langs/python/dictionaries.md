@@ -111,5 +111,34 @@ myDict = {
 myDict.update({"hp": 40})
 ```
 
+## Removing Items
+Use `.pop()` to remove key:value pair by key name.
+```python
+myDict = {
+	"name": "Pikachu"
+	"type": "Electric"
+	"hp": 55
+}
+
+myDict.pop("type")
+# {"name": "Pikachu", "hp": 55}
+```
+`.popitem()` will remove the most recently inserted item. No parameter needed.
+
+`del` keyword used with the dict and key is another way to remove specific items. Careful, if we don't specify a key, the whole dict will be deleted.
+```python
+myDict = {
+	"name": "Pikachu"
+	"type": "Electric"
+	"hp": 55
+}
+
+del myDict["type"]
+```
+`.clear()` will empty everything in the dictionary. 
+
+
+
+
 
 
