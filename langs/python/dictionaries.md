@@ -216,6 +216,66 @@ newDict = dict(myDict)
 
 ## Nested Dictionaries
 
+Yes, we can have dictionaries within dictionaries.
+```python
+myDict = {
+	"Pikachu" : {
+		"type": "electric",
+		"hp": 55
+	}
+	"Squirtle" : {
+		"type": "water",
+		"hp": 55
+	}
+	"Bulbasaur" : {
+		"type": "grass",
+		"hp": 55
+	}
+}
+
+
+# Can also be written like so, to create dictionaries out of existing dictionaries.
+
+
+pikachu = {
+	"type": "electric",
+	"hp": 55
+}
+squirtle = {
+	"type": "water",
+	"hp": 55
+}
+bulbasaur = {
+	"type": "grass",
+	"hp": 55
+}
+
+myDict = {
+	"Pikachu" : pikachu,
+	"Squirtle" : squirtle,
+	"Bulbasaur" : bulbasaur
+}
+```
+
+To access nested items, use double brackets like `print(myDict["Pikachu"]["type"])`
+
+Here is a quick way to print each key and value of the nested dictionary
+```python
+for x, obj in myDict.items():
+	print(x)
+	for y in obj:
+		print(y + ":", obj[y])
+
+# Pikachu
+# type: electric
+# hp: 55
+# Squirtle
+# type: water
+# hp: 55
+# Bulbasaur
+# type: grass
+# hp: 55
+```
 
 
 
