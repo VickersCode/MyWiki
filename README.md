@@ -29,6 +29,10 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		- [strings](./langs/python/strings.md)
 		- [advanced-operators](./langs/python/advanced-operators.md)
 		- [lists](./langs/python/lists.md)
+		- [sets](./langs/python/sets.md)
+		- [tuples](./langs/python/tuples.md)
+		- [dictionaries](./langs/python/dictionaries.md)
+		- [if-else](./langs/python/if-else.md)
 
 
 
