@@ -10,7 +10,7 @@ ___
 - [Common Methods](#Common-Methods)
 - [Intro](#Intro)
 - [Accessing Items](#Accessing-Items)
-- [Changing/Adding Values](#Changing-Values-(Add-Values))
+- [Changing/Adding Values](#Changing-Values)
 - [Removing Items](#Removing-Items)
 - [Loops](#Looops)
 - [Copying Dictionaries](#Copying-Dictionaries)
