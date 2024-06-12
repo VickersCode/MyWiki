@@ -107,7 +107,7 @@ Checks to see if something is in an object
 | in       | Returns True if a sequence with the specified value is present in the object     | x in y  |
 | not in   | Returns True if a sequence with the specified value is not present in the object | x       |
 ## Bitwise-Operators
-Used to Compare binary numbers.
+Used to do operations on numbers at the bit-level. Go to the [Python Docs](https://wiki.python.org/moin/BitwiseOperators) for more information.
 
 | Operator | Name                 | Description                                                                                             | Example |
 | -------- | -------------------- | ------------------------------------------------------------------------------------------------------- | ------- |

@@ -6,6 +6,16 @@ credit:
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
 [https://docs.python.org/3/](https://docs.python.org/3/)
 ___
+#### Quick Links (on this page)
+- [Common Methods](#Common-Methods)
+- [Intro](#Intro)
+- [Accessing Items](#Accessing-Items)
+- [Changing/Adding Values](#Changing-Values-(Add-Values))
+- [Removing Items](#Removing-Items)
+- [Loops](#Looops)
+- [Copying Dictionaries](#Copying-Dictionaries)
+- [Nested Dictionaries](#Nested-Dictionaries)
+
 ## Common Methods
 |Method|Description|
 |---|---|
@@ -102,7 +112,7 @@ print(x)
 # dict_items([('name', 'Charles'), ('profession', 'Driver'), ('year', 2024)])
 ```
 
-### Changing Values (Add Values)
+## Changing Values (Add Values)
 
 There are two ways to change values. For both, if the key does not exist, a new key:value pair will be added.
 The first is to use bracket notation
