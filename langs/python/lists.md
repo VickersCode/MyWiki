@@ -6,7 +6,17 @@ credit:
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
 [https://docs.python.org/3/](https://docs.python.org/3/tutorial/datastructures.html)
 ___
-
+#### Quick Links (on this page)
+- [Intro](#Lil-Intro)
+- [Common Methods](#Common-Methods)
+- [Accessing Elements](#Accessing-Elements)
+- [Changing List Items](#Changing-List-Items)
+- [Add/Remove Items](#Add/Remove-List-Items)
+- [Looping](#Looping)
+- [List Comprehension](#List-Comprehension)
+- [Sorting](#Sorting-Lists)
+- [Copying Lists](#Copying-Lists)
+- [Joining Lists](#Joining-Lists)
 ## Lil Intro
 
 Brackets are used to denotes lists
@@ -36,21 +46,23 @@ print(len(myList))
 
 # prints 3
 ```
+___
 ## Common Methods
 
-|Method|Description|
-|---|---|
-|[append()](https://www.w3schools.com/python/ref_list_append.asp)|Adds an element at the end of the list|
-|[clear()](https://www.w3schools.com/python/ref_list_clear.asp)|Removes all the elements from the list|
-|[copy()](https://www.w3schools.com/python/ref_list_copy.asp)|Returns a copy of the list|
-|[count()](https://www.w3schools.com/python/ref_list_count.asp)|Returns the number of elements with the specified value|
-|[extend()](https://www.w3schools.com/python/ref_list_extend.asp)|Add the elements of a list (or any iterable), to the end of the current list|
-|[index()](https://www.w3schools.com/python/ref_list_index.asp)|Returns the index of the first element with the specified value|
-|[insert()](https://www.w3schools.com/python/ref_list_insert.asp)|Adds an element at the specified position|
-|[pop()](https://www.w3schools.com/python/ref_list_pop.asp)|Removes the element at the specified position|
-|[remove()](https://www.w3schools.com/python/ref_list_remove.asp)|Removes the item with the specified value|
-|[reverse()](https://www.w3schools.com/python/ref_list_reverse.asp)|Reverses the order of the list|
-|[sort()](https://www.w3schools.com/python/ref_list_sort.asp)|Sorts the list|
+| Method                                                             | Description                                                                  |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [append()](https://www.w3schools.com/python/ref_list_append.asp)   | Adds an element at the end of the list                                       |
+| [clear()](https://www.w3schools.com/python/ref_list_clear.asp)     | Removes all the elements from the list                                       |
+| [copy()](https://www.w3schools.com/python/ref_list_copy.asp)       | Returns a copy of the list                                                   |
+| [count()](https://www.w3schools.com/python/ref_list_count.asp)     | Returns the number of elements with the specified value                      |
+| [extend()](https://www.w3schools.com/python/ref_list_extend.asp)   | Add the elements of a list (or any iterable), to the end of the current list |
+| [index()](https://www.w3schools.com/python/ref_list_index.asp)     | Returns the index of the first element with the specified value              |
+| [insert()](https://www.w3schools.com/python/ref_list_insert.asp)   | Adds an element at the specified position                                    |
+| [pop()](https://www.w3schools.com/python/ref_list_pop.asp)         | Removes the element at the specified position                                |
+| [remove()](https://www.w3schools.com/python/ref_list_remove.asp)   | Removes the item with the specified value                                    |
+| [reverse()](https://www.w3schools.com/python/ref_list_reverse.asp) | Reverses the order of the list                                               |
+| [sort()](https://www.w3schools.com/python/ref_list_sort.asp)       | Sorts the list                                                               |
+___
 ## Accessing Elements
 
 Use index notation:
@@ -74,7 +86,7 @@ if "dog" in myList:
 	print("True")
 ```
 
-
+___
 ## Changing List Items
 
 For a single item, just use the index:
@@ -96,7 +108,7 @@ myList = [1,2,3]
 myList[1:2] = [3,1]
 # [1,3,1,3]
 ```
-
+___
 ## Add/Remove List Items
 
 use `insert()` to just add something to certain index without replacing.
@@ -144,7 +156,7 @@ del myList[0]
 ```
 
 Finally, the `clear()` method empties a list. There is still a list, it's just empty. 
-
+___
 ## Looping 
 
 Loop through each item in a list:
@@ -169,7 +181,7 @@ while i < len(myList):
 	print(myList[i])
 	i = i + 1
 ```
-
+___
 ## List Comprehension
 
 Syntax
@@ -182,7 +194,7 @@ Use list comprehension for short syntax
 myList = [1,2,3,4,5]
 [print(x) for x in myList]
 ```
-
+___
 ## Sorting Lists
 
 Using `myList.sort()` will sort the list alphanumerically, ascending.
@@ -208,7 +220,7 @@ thislist.sort(key = myfunc)
 print(thislist)
 # [50, 65, 23, 82, 100]
 ```
-
+___
 ## Copying Lists
 
 > [!warning]
@@ -225,7 +237,7 @@ or the `list()` method.
 myList = [1,2,3,4,5]
 newList = list(myList)
 ```
-
+___
 ## Joining Lists
 
 Or, concatenation
