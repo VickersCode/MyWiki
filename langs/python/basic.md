@@ -19,7 +19,7 @@ ___
 print("Hello World")
 ```
 Gotta stick with the cliche.
-
+___
 ### Variables and Data Types
 ```python
 var = "string"      #string
@@ -76,14 +76,14 @@ import random
 
 x = random.randrange(1,10)
 ```
-
-### Booleans
+___
+## Booleans
 
 As we know, Booleans are the T/F stuff. Using a number of operators, we can return True or False (they are capitalized in Python)
 
+___
 
-
-### Comments
+## Comments
 
 ```python
 # This is a comment
@@ -98,8 +98,8 @@ a multiline
 comment
 """
 ```
-
-### Loops
+___
+## Loops
 
 In python, indentation is very impotant.
 

@@ -15,7 +15,7 @@ ___
 - [Loops](#Looops)
 - [Copying Dictionaries](#Copying-Dictionaries)
 - [Nested Dictionaries](#Nested-Dictionaries)
-
+___
 ## Common Methods
 |Method|Description|
 |---|---|
@@ -30,7 +30,7 @@ ___
 |[setdefault()](https://www.w3schools.com/python/ref_dictionary_setdefault.asp)|Returns the value of the specified key. If the key does not exist: insert the key, with the specified value|
 |[update()](https://www.w3schools.com/python/ref_dictionary_update.asp)|Updates the dictionary with the specified key-value pairs|
 |[values()](https://www.w3schools.com/python/ref_dictionary_values.asp)|Returns a list of all the values in the dictionary|
-
+___
 ## Intro
 
 Dictionaries are ordered and changeable. They are made of key:value pairs. No duplicate keys. 
@@ -111,7 +111,7 @@ print(x)
 
 # dict_items([('name', 'Charles'), ('profession', 'Driver'), ('year', 2024)])
 ```
-
+___
 ## Changing or Adding Values
 
 There are two ways to change values. For both, if the key does not exist, a new key:value pair will be added.
@@ -135,7 +135,7 @@ myDict = {
 
 myDict.update({"hp": 40})
 ```
-
+___
 ## Removing Items
 Use `.pop()` to remove key:value pair by key name.
 ```python
@@ -161,7 +161,7 @@ myDict = {
 del myDict["type"]
 ```
 `.clear()` will empty everything in the dictionary. 
-
+___
 ## Loops
 
 We can use for loops to get all keys, values, or pairs. 
@@ -203,7 +203,7 @@ for x, y in myDict.items():
 # type Electric
 # hp   55
 ```
-
+___
 ## Copying Dictionaries
 
 >[!Warning]
@@ -223,7 +223,7 @@ newDict = myDict.copy()
 
 newDict = dict(myDict)
 ```
-
+___
 ## Nested Dictionaries
 
 Yes, we can have dictionaries within dictionaries.
