@@ -20,7 +20,7 @@ print("Hello World")
 ```
 Gotta stick with the cliche.
 
-#### Variables and Data Types
+### Variables and Data Types
 ```python
 var = "string"      #string
 var = 1             #int
@@ -83,7 +83,7 @@ As we know, Booleans are the T/F stuff. Using a number of operators, we can retu
 
 
 
-### Comment using '#'
+### Comments
 
 ```python
 # This is a comment
