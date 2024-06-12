@@ -7,10 +7,10 @@ credit:
 [https://docs.python.org/3/](https://docs.python.org/3/)
 ___
 #### Quick Links (on this page)
-[Variables and Data Types](#Variables-and-Data-Types)
-[Booleans](#Booleans)
-[Comments](#Comments)
-[Loops](#Loops)
+- [Variables and Data Types](#Variables-and-Data-Types)
+- [Booleans](#Booleans)
+- [Comments](#Comments)
+- [Loops](#Loops)
 
 
 
