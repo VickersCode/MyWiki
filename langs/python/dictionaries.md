@@ -10,7 +10,7 @@ ___
 - [Common Methods](#Common-Methods)
 - [Intro](#Intro)
 - [Accessing Items](#Accessing-Items)
-- [Changing/Adding Values](#Changing-Values)
+- [Changing/Adding Values](#Changing-or-Adding-Values)
 - [Removing Items](#Removing-Items)
 - [Loops](#Looops)
 - [Copying Dictionaries](#Copying-Dictionaries)
@@ -112,7 +112,7 @@ print(x)
 # dict_items([('name', 'Charles'), ('profession', 'Driver'), ('year', 2024)])
 ```
 
-## Changing Values (Add Values)
+## Changing or Adding Values
 
 There are two ways to change values. For both, if the key does not exist, a new key:value pair will be added.
 The first is to use bracket notation
