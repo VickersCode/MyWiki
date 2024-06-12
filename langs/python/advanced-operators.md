@@ -6,6 +6,16 @@ credit:
 [https://www.w3schools.com/python/](https://www.w3schools.com/python/python_operators.asp)
 [https://docs.python.org/3/](https://docs.python.org/3/library/operator.html)
 ___
+#### Quick Links (on this page)
+- [Arithmetic Operators](#Arithmetic-Operators)
+- [Order of Operations](#Order-of-Operations)
+- [Assignment Operators](#Assignment-Operators)
+- [Comparison Operators](#Comparison-Operators)
+- [Logical Operators](#Logical-Operators)
+- [Identity Operators](#Identity-Operators)
+- [Membership Operators](#Membership-Operators)
+- [Bitwise Operators](#Bitwise-Operators)
+
 ## Arithmetic Operators
 Used to perform mathematical computations
 
