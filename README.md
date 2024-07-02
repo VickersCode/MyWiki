@@ -33,6 +33,8 @@ If a pair of eyes happen to fall upon this that aren't mine, I'm not sure how us
 		- [tuples](./langs/python/tuples.md)
 		- [dictionaries](./langs/python/dictionaries.md)
 		- [if-else](./langs/python/if-else.md)
+	2. cpp
+		- [basic](./langs/cpp/basic.md)
 
 
 
