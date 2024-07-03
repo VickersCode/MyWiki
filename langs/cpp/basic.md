@@ -73,4 +73,26 @@ and `/* */` for multi-line
 comments
 */
 ```
-for multiline
+___
+
+#### Variables
+
+In C++, variable types need to be declared. 
+Here are a few common types. 
+
+| **Variable Type** | **Description**                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------- |
+| int               | Used to store any whole number.                                                              |
+| float             | Used for storing numbers with decimal point values. It can store up to seven decimal places. |
+| double            | Used for storing numbers with decimal point values. It can store up to 15 decimal places.    |
+| bool              | Used to store either true or false values.                                                   |
+| char              | Used to store a single character, letter, number or ASCII value.                             |
+| string            | Used to store a series of characters.                                                        |
+
+And here are a few declaration examples
+```cpp
+int nums = 15
+string name = "coder"
+double dollars = 6.99
+```
+
