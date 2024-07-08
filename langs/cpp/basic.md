@@ -96,7 +96,7 @@ string name = "coder"
 double dollars = 6.99
 ```
 
-#### Declaring multiple variables
+##### Declaring multiple variables
 
 A couple quick examples
 ```cpp
@@ -108,4 +108,26 @@ int x, y, z;
 x = y = z = 50;
 
 ```
+
+##### Constants
+Constants are immutable, read-only. Just put const in front of the declaration, like so: `const int myNum = 43;`
+
+They must be declared with a value, we cannot say `const int daysPerWeek;` and then declare the variable. That would be a mutation.
+
+___
+
+#### User Input
+
+As '`cout <<`' prints to the screen, '`cin >>`' takes input from a keyboard. We declare the variable first, then we ask for input.
+```cpp
+int userInput;
+cout << "Give a number: ";
+cin >> userInput;
+```
+
+`cin` and `cout` are both part of the `<iostream>` library. For a complete library reference, go [here](https://cplusplus.com/reference/iostream/)
+
+
+
+
 
