@@ -139,7 +139,7 @@ Here's a table from w3schools, showing size and description of the most common d
 |`int`|2 or 4 bytes|Stores whole numbers, without decimals|
 |`float`|4 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits|
 |`double`|8 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits|
-
+At the [bottom of this page](#DataTable) there is a more in depth table of types with different modifiers.
 
 When deciding whether to use float or double, most people use double because it has a precision of 15 digits, versus the 6-7 digits that float stores.
 
@@ -191,3 +191,34 @@ Strings must be surrounded by double quotes.
 string greeting = "Hello";  
 cout << greeting;
 ```
+___
+#### DataTable
+
+| Type specifier         | Equivalent type                     | Width in bits by data model |        |        |        |        |
+| ---------------------- | ----------------------------------- | :-------------------------: | :----: | :----: | :----: | :----: |
+| C++ standard           | LP32                                |            ILP32            | LLP64  |  LP64  |        |        |
+| signed char            | signed char                         |     at least  <br>**8**     | **8**  | **8**  | **8**  | **8**  |
+| unsigned char          | unsigned char                       |                             |        |        |        |        |
+| short                  | short int                           |    at least  <br>**16**     | **16** | **16** | **16** | **16** |
+| short int              |                                     |                             |        |        |        |        |
+| signed short           |                                     |                             |        |        |        |        |
+| signed short int       |                                     |                             |        |        |        |        |
+| unsigned short         | unsigned short int                  |                             |        |        |        |        |
+| unsigned short int     |                                     |                             |        |        |        |        |
+| int                    | int                                 |    at least  <br>**16**     | **16** | **32** | **32** | **32** |
+| signed                 |                                     |                             |        |        |        |        |
+| signed int             |                                     |                             |        |        |        |        |
+| unsigned               | unsigned int                        |                             |        |        |        |        |
+| unsigned int           |                                     |                             |        |        |        |        |
+| long                   | long int                            |    at least  <br>**32**     | **32** | **32** | **32** | **64** |
+| long int               |                                     |                             |        |        |        |        |
+| signed long            |                                     |                             |        |        |        |        |
+| signed long int        |                                     |                             |        |        |        |        |
+| unsigned long          | unsigned long int                   |                             |        |        |        |        |
+| unsigned long int      |                                     |                             |        |        |        |        |
+| long long              | long long int  <br>(C++11)          |    at least  <br>**64**     | **64** | **64** | **64** | **64** |
+| long long int          |                                     |                             |        |        |        |        |
+| signed long long       |                                     |                             |        |        |        |        |
+| signed long long int   |                                     |                             |        |        |        |        |
+| unsigned long long     | unsigned long long int  <br>(C++11) |                             |        |        |        |        |
+| unsigned long long int |                                     |                             |        |        |        |        |
