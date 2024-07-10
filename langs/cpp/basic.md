@@ -132,13 +132,14 @@ ___
 
 Here's a table from w3schools, showing size and description of the most common data types.
 
-|Data Type|Size|Description|
-|---|---|---|
-|`boolean`|1 byte|Stores true or false values|
-|`char`|1 byte|Stores a single character/letter/number, or ASCII values|
-|`int`|2 or 4 bytes|Stores whole numbers, without decimals|
-|`float`|4 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits|
-|`double`|8 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits|
+| Data Type | Size         | Description                                                                                           |
+| --------- | ------------ | ----------------------------------------------------------------------------------------------------- |
+| `boolean` | 1 byte       | Stores true or false values                                                                           |
+| `char`    | 1 byte       | Stores a single character/letter/number, or ASCII values                                              |
+| `int`     | 2 or 4 bytes | Stores whole numbers, without decimals                                                                |
+| `float`   | 4 bytes      | Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits |
+| `double`  | 8 bytes      | Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits  |
+
 At the [bottom of this page](#DataTable) there is a more in depth table of types with different modifiers.
 
 When deciding whether to use float or double, most people use double because it has a precision of 15 digits, versus the 6-7 digits that float stores.
